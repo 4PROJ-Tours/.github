@@ -53,4 +53,4 @@ L'objectif : concevoir une alternative à Dropbox ou Google Drive, permettant à
 
 ### Mobile
 
-L'application mobile est developpee avec **Capacitor** (sur base Vue), permettant de partager la logique metier avec le frontend web et de generer des builds natifs iOS et Android depuis une seule base de code.
+L'application mobile est developpee avec **Capacitor** (sur base Vue), permettant de generer des builds natifs iOS et Android depuis une seule base de code.
