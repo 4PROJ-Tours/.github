@@ -12,9 +12,9 @@ L'objectif : concevoir une alternative à Dropbox ou Google Drive, permettant à
 
 | Membre   | Role                 |
 | -------- | -------------------- |
-| **Enzo** | Frontend — UX/UI     |
-| **Loïc** | Full Stack           |
-| **Paul** | Backend — DevOps     |
+| **Enzo ROBERT** | Frontend — UX/UI     |
+| **Loïc LE HENANF** | Full Stack           |
+| **Paul PREUVOST** | Backend — DevOps     |
 
 ---
 
