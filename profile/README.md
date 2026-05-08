@@ -35,7 +35,7 @@ L'objectif : concevoir une alternative à Dropbox ou Google Drive, permettant à
 
 ## Stack technique
 
-### Web (ce depot)
+### Web App
 
 | Couche            | Technologie                      |
 | ----------------- | -------------------------------- |
@@ -49,6 +49,7 @@ L'objectif : concevoir une alternative à Dropbox ou Google Drive, permettant à
 | Auth              | JWT + bcrypt + OAuth2            |
 | Reverse proxy     | Nginx 1.27 + TLS (Let's Encrypt) |
 | Conteneurisation  | Docker + Docker Compose          |
+| CI/CD             | Github Action                    |
 
 ### Mobile
 
