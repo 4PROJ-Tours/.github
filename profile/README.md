@@ -1,6 +1,6 @@
-# SUPFile
+# SUPFILE
 
-SUPFile est une plateforme de stockage cloud grand public, développée dans le cadre du projet de fin d'année de M1 à SUPINFO campus de Tours.
+SUPFILE est une plateforme de stockage cloud grand public, développée dans le cadre du projet de fin d'année de M1 à SUPINFO campus de Tours.
 
 L'objectif : concevoir une alternative à Dropbox ou Google Drive, permettant à chaque utilisateur de stocker, organiser, prévisualiser et partager ses fichiers depuis n'importe quel appareil.
 
